@@ -1,0 +1,11 @@
+C:\Users\surface go\source\repos\tamrin4\tamrin4\bin\Debug\tamrin4.exe.config
+C:\Users\surface go\source\repos\tamrin4\tamrin4\bin\Debug\tamrin4.exe
+C:\Users\surface go\source\repos\tamrin4\tamrin4\bin\Debug\tamrin4.pdb
+C:\Users\surface go\source\repos\tamrin4\tamrin4\obj\Debug\tamrin4.csproj.AssemblyReference.cache
+C:\Users\surface go\source\repos\tamrin4\tamrin4\obj\Debug\tamrin4.csproj.SuggestedBindingRedirects.cache
+C:\Users\surface go\source\repos\tamrin4\tamrin4\obj\Debug\tamrin4.Form1.resources
+C:\Users\surface go\source\repos\tamrin4\tamrin4\obj\Debug\tamrin4.Properties.Resources.resources
+C:\Users\surface go\source\repos\tamrin4\tamrin4\obj\Debug\tamrin4.csproj.GenerateResource.cache
+C:\Users\surface go\source\repos\tamrin4\tamrin4\obj\Debug\tamrin4.csproj.CoreCompileInputs.cache
+C:\Users\surface go\source\repos\tamrin4\tamrin4\obj\Debug\tamrin4.exe
+C:\Users\surface go\source\repos\tamrin4\tamrin4\obj\Debug\tamrin4.pdb
